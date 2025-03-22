@@ -7,17 +7,17 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9u0GQ8qIzmoGPEtq0s)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{deviltech6}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH-MD}/count.svg" alt="deviltech567 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{deviltech567}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/deviltech67/DEVIL-TECH-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/deviltech567/DEVIL-TECH-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/deviltech67/DEVIL-TECH-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/deviltech567/DEVIL-TECH-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 ---
 
@@ -47,11 +47,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/deviltech67/DEVIL-TECH-MD/fork"><img title="DEVIL-TECH-MD" src="https://img.shields.io/badge/FORK-DEVIL%20TECH%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/deviltech567/DEVIL-TECH-MD/fork"><img title="DEVIL-TECH-MD" src="https://img.shields.io/badge/FORK-DEVIL%20TECH%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:9476009xxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
 > **1. PAIR CODE SESSION ID**
@@ -81,7 +81,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/deviltech67/DEVIL-TECH-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/deviltech567/DEVIL-TECH-MD/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 
   
